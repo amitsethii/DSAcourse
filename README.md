@@ -17,8 +17,8 @@ https://www.youtube.com/watch?v=hoeIllSxpEU     I was talking about this video. 
 
 https://practice.geeksforgeeks.org/explore?page=1&category[]=Arrays&sortBy=submissions
 
-10}} Recursion
+10}} Recursion 0
 
 11}} Doubt session
 
-12}} Recursion ||
+12}} Recursion 1
