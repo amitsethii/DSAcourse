@@ -28,3 +28,5 @@ https://practice.geeksforgeeks.org/explore?page=1&category[]=Arrays&sortBy=submi
 14}} math 1
 
 15}} recursion doubt session
+
+16}} Math 2
