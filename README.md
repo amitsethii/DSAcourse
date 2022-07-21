@@ -41,3 +41,5 @@ https://github.com/s-kachroo/SamsungPractice
 
 24}} Sorting 
 
+25}} Binary Search
+
